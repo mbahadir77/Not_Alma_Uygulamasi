@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Yumuşak_Mavi">#3498db</color>
+    <color name="Açık_Gri">#ecf0f1</color>
+    <color name="Sakin_Yeşil">#2ecc71</color>
+    <color name="Sıcak_Turuncu">#e67e22</color>
+    <color name="Canlı_Kırmızı">#e74c3c</color>
+    <color name="Derin_Mor">#8e44ad</color>
+
+
+
+
+
+</resources>
